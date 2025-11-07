@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome, I'm <span style="color:#ff6600">Dr. Kastro Kiran V.</span></h1>
+<h1 align="center">👋 hi , I'm <span style="color:#ff6600">Dr. Kastro Kiran V.</span></h1>
 
 <p align="center">
   🚀 Passionate about <b>Linux</b>, <b>DevOps</b>, <b>Cloud</b>, and <b>Continuous Learning</b><br>
